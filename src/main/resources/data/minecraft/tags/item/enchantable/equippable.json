@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "wingsclassic:angel_wings",
+    "wingsclassic:slime_wings",
+    "wingsclassic:blue_butterfly_wings",
+    "wingsclassic:monarch_butterfly_wings",
+    "wingsclassic:fire_wings",
+    "wingsclassic:bat_wings",
+    "wingsclassic:fairy_wings",
+    "wingsclassic:evil_wings",
+    "wingsclassic:dragon_wings"
+  ]
+}

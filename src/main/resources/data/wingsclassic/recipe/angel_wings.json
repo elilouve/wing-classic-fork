@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "FDF",
+    "GAG",
+    "G G"
+  ],
+  "key": {
+    "F": {
+      "tag": "c:feathers"
+    },
+    "G": {
+      "tag": "c:ingots/gold"
+    },
+    "A": {
+      "tag": "c:dusts/fairy"
+    },
+    "D": {
+      "tag": "c:gems/diamond"
+    }
+  },
+  "result": {
+    "id": "wingsclassic:angel_wings"
+  }
+}

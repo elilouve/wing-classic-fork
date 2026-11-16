@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "SDS",
+    "GAG",
+    "G G"
+  ],
+  "key": {
+    "S": {
+      "tag": "c:slimeballs"
+    },
+    "G": {
+      "tag": "c:ingots/gold"
+    },
+    "A": {
+      "tag": "c:dusts/fairy"
+    },
+    "D": {
+      "tag": "c:gems/diamond"
+    }
+  },
+  "result": {
+    "id": "wingsclassic:slime_wings"
+  }
+}

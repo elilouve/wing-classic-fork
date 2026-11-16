@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "IDO",
+    "GAG",
+    "G G"
+  ],
+  "key": {
+    "I": {
+      "tag": "c:dyes/black"
+    },
+    "O": {
+      "tag": "c:dyes/orange"
+    },
+    "G": {
+      "tag": "c:ingots/gold"
+    },
+    "A": {
+      "tag": "c:dusts/fairy"
+    },
+    "D": {
+      "tag": "c:gems/diamond"
+    }
+  },
+  "result": {
+    "id": "wingsclassic:monarch_butterfly_wings"
+  }
+}

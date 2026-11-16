@@ -1,0 +1,7 @@
+1.0.0
+- NeoForge 1.21.1 version of Wings Classic (port of the Forge 1.20.1 version).
+- 9 pairs of wings, flight, fairy dust / amethyst ores (+ deepslate), bat blood.
+- Fire wings glow and emit particles; wing physics, folded wings and camera fixes.
+- Server and client config files.
+- Optional Curios support (back slot).
+- Sprint while flying: speed up to elytra-with-firework speed (config: sprintMaxSpeed).

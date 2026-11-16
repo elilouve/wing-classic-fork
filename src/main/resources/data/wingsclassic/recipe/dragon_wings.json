@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "EDE",
+    "GAG",
+    "G G"
+  ],
+  "key": {
+    "E": {
+      "item": "minecraft:dragon_breath"
+    },
+    "G": {
+      "tag": "c:ingots/gold"
+    },
+    "A": {
+      "tag": "c:dusts/fairy"
+    },
+    "D": {
+      "tag": "c:gems/diamond"
+    }
+  },
+  "result": {
+    "id": "wingsclassic:dragon_wings"
+  }
+}

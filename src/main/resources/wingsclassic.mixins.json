@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.elilouve.wingsclassic.client.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [],
+  "client": [
+    "MixinLivingEntityRenderer",
+    "MixinHumanoidModel"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

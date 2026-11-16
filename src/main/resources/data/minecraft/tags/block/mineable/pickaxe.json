@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "wingsclassic:fairy_dust_ore",
+    "wingsclassic:amethyst_ore",
+    "wingsclassic:deepslate_fairy_dust_ore",
+    "wingsclassic:deepslate_amethyst_ore"
+  ]
+}

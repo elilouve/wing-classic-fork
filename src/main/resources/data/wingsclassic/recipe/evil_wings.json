@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "EDM",
+    "GAG",
+    "G G"
+  ],
+  "key": {
+    "E": {
+      "item": "minecraft:emerald"
+    },
+    "M": {
+      "item": "wingsclassic:amethyst"
+    },
+    "G": {
+      "tag": "c:ingots/gold"
+    },
+    "A": {
+      "tag": "c:dusts/fairy"
+    },
+    "D": {
+      "tag": "c:gems/diamond"
+    }
+  },
+  "result": {
+    "id": "wingsclassic:evil_wings"
+  }
+}

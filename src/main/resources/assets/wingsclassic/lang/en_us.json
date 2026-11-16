@@ -1,0 +1,23 @@
+{
+  "itemGroup.wingsclassic": "Wings Classic",
+  "block.wingsclassic.fairy_dust_ore": "Fairy Dust Ore",
+  "block.wingsclassic.amethyst_ore": "Amethyst Ore",
+  "item.wingsclassic.angel_wings": "Angel Wings",
+  "item.wingsclassic.slime_wings": "Slime Wings",
+  "item.wingsclassic.blue_butterfly_wings": "Blue Butterfly Wings",
+  "item.wingsclassic.monarch_butterfly_wings": "Monarch Butterfly Wings",
+  "item.wingsclassic.fire_wings": "Fire Wings",
+  "item.wingsclassic.bat_wings": "Bat Wings",
+  "item.wingsclassic.fairy_wings": "Fairy Wings",
+  "item.wingsclassic.evil_wings": "Evil Wings",
+  "item.wingsclassic.dragon_wings": "Dragon Wings",
+  "item.wingsclassic.fairy_dust": "Fairy Dust",
+  "item.wingsclassic.amethyst": "Amethyst",
+  "item.wingsclassic.bat_blood": "Bat Blood",
+  "block.wingsclassic.deepslate_fairy_dust_ore": "Deepslate Fairy Dust Ore",
+  "block.wingsclassic.deepslate_amethyst_ore": "Deepslate Amethyst Ore",
+  "key.wingsclassic.fly": "Toggle Flight",
+  "key.categories.wingsclassic": "Wings Classic",
+  "message.wingsclassic.obstructed": "You can't wear wings while wearing something that blocks them (e.g. an elytra).",
+  "subtitles.wingsclassic.item.armor.equip_wings": "Wings equipped"
+}
