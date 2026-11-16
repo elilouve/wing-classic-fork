@@ -1,0 +1,23 @@
+{
+  "itemGroup.wingsclassic": "Wings Classic",
+  "block.wingsclassic.fairy_dust_ore": "Minerai de poussi\u00e8re de f\u00e9e",
+  "block.wingsclassic.amethyst_ore": "Minerai d'am\u00e9thyste",
+  "item.wingsclassic.angel_wings": "Ailes d'ange",
+  "item.wingsclassic.slime_wings": "Ailes de slime",
+  "item.wingsclassic.blue_butterfly_wings": "Ailes de papillon bleu",
+  "item.wingsclassic.monarch_butterfly_wings": "Ailes de papillon monarque",
+  "item.wingsclassic.fire_wings": "Ailes de feu",
+  "item.wingsclassic.bat_wings": "Ailes de chauve-souris",
+  "item.wingsclassic.fairy_wings": "Ailes de f\u00e9e",
+  "item.wingsclassic.evil_wings": "Ailes mal\u00e9fiques",
+  "item.wingsclassic.dragon_wings": "Ailes de dragon",
+  "item.wingsclassic.fairy_dust": "Poussi\u00e8re de f\u00e9e",
+  "item.wingsclassic.amethyst": "Am\u00e9thyste",
+  "item.wingsclassic.bat_blood": "Sang de chauve-souris",
+  "block.wingsclassic.deepslate_fairy_dust_ore": "Minerai de poussi\u00e8re de f\u00e9e en ardoise des ab\u00eemes",
+  "block.wingsclassic.deepslate_amethyst_ore": "Minerai d'am\u00e9thyste en ardoise des ab\u00eemes",
+  "key.wingsclassic.fly": "Activer/d\u00e9sactiver le vol",
+  "key.categories.wingsclassic": "Wings Classic",
+  "message.wingsclassic.obstructed": "Vous ne pouvez pas mettre des ailes en portant un objet qui les bloque (ex. \u00e9lytre).",
+  "subtitles.wingsclassic.item.armor.equip_wings": "Ailes \u00e9quip\u00e9es"
+}

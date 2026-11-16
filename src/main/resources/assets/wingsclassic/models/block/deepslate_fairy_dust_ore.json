@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "wingsclassic:block/deepslate_fairy_dust_ore"
+  }
+}

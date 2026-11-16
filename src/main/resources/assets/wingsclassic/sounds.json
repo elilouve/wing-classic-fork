@@ -1,0 +1,17 @@
+{
+  "item.wings.flying": {
+    "sounds": [
+      {
+        "name": "minecraft:item.elytra.flying",
+        "type": "event",
+        "volume": 1.0
+      }
+    ]
+  },
+  "item.armor.equip_wings": {
+    "sounds": [
+      "minecraft:item.armor.equip_generic"
+    ],
+    "subtitle": "subtitles.wingsclassic.item.armor.equip_wings"
+  }
+}

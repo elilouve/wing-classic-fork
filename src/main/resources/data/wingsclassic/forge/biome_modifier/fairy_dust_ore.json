@@ -1,0 +1,9 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#minecraft:is_overworld",
+  "features": [
+    "wingsclassic:fairy_dust_ore",
+    "wingsclassic:fairy_dust_ore_small"
+  ],
+  "step": "underground_ores"
+}

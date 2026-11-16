@@ -1,0 +1,4 @@
+Wings Classic is a port of the Wings mod (1.12.2) by Pau101, released under the MIT license.
+Original project: https://github.com/pau101/Wings
+Concept design of the original mod: LDShadowLady
+Port to Forge 1.20.1 / NeoForge 1.21.1: elilouve
